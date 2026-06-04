@@ -1,17 +1,17 @@
 {
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "Free web search router for AI agents — a dumb-but-excellent internet gateway",
   "homepage": "https://github.com/dorukardahan/nole",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/dorukardahan/nole/releases/download/v1.4.0/nole-windows-amd64.exe",
-      "hash": "0c210d2de5eb8a611f620998dd4fa201423425e1224dab8d751aa6a506b5411d",
+      "url": "https://github.com/dorukardahan/nole/releases/download/v1.5.0/nole-windows-amd64.exe",
+      "hash": "e4ad4f3a96fe9bd47f4075e0fb37baa248e74bef61e52bf683bd3dfae07c90ec",
       "bin": [["nole-windows-amd64.exe", "nole"]]
     },
     "arm64": {
-      "url": "https://github.com/dorukardahan/nole/releases/download/v1.4.0/nole-windows-arm64.exe",
-      "hash": "de1475b2a37ff24132046127bf02bf9b8de5e06a26f94fb7bbeea6443c641036",
+      "url": "https://github.com/dorukardahan/nole/releases/download/v1.5.0/nole-windows-arm64.exe",
+      "hash": "c1f62600125f9cd22bc05c00589f4438c2146bfeacb4371f5a6c1dfbe4448b13",
       "bin": [["nole-windows-arm64.exe", "nole"]]
     }
   },
